@@ -1,0 +1,96 @@
+{
+    "title": "Influencer Video Affiliate Marketing",
+    "description": "",
+    "referenceId": "7b51589ad2bb99a4ffdfddd10082de18",
+    "date_created": "1521158460",
+    "date_modified": "1521232193",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "external_image": null,
+    "user_id": "0",
+    "id": "154771568",
+    "loginId": "146",
+    "entityType": "1",
+    "titleTextEncoded": "Influencer-Video-Affiliate-Marketing",
+    "category": "",
+    "duration": "68",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "68",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "68",
+        "prettyDuration": "00:01:08",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/146\/canvas\/1920\/1080\/426027661-1521232192.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/146\/154771568\/937b5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/146\/154771568\/937b5\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/146\/154771568\/937b5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/154771568\/937b5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/154771568\/937b5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/154771568\/937b5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/154771568\/937b5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 109,
+    "CVV_VI": "",
+    "engagement_score": 2,
+    "conversion_score": 25,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-04-19"
+        }
+    },
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

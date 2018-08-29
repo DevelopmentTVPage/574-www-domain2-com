@@ -1,0 +1,111 @@
+{
+    "title": "Fit Expert Review_ Men's Nike Free 4.0 Flyknit.mp4",
+    "description": "",
+    "referenceId": "0ff7c590737e3b92ec1afcb52b32fe8c",
+    "date_created": "1512437959",
+    "date_modified": "1512438821",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "unpublishing",
+    "visibility": "1",
+    "external_image": null,
+    "user_id": "0",
+    "id": "132374719",
+    "loginId": "146",
+    "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "132348485",
+    "titleTextEncoded": "Fit-Expert-Review-Men-s-Nike-Free-4-0-Flyknit-mp4",
+    "category": "",
+    "duration": "61",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "61",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "61",
+        "prettyDuration": "00:01:01",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/146\/132374719\/thumbnail\/image-thumbnail-256-6dd9aba9ec36c4f0c7e04a8631659536.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/146\/132374719\/569f8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/146\/132374719\/569f8\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/146\/132374719\/569f8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/132374719\/569f8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/132374719\/569f8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/132374719\/569f8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/132374719\/569f8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "selectableThumbnails": [
+            "\/\/v-dev.tvpage.com\/146\/132374719\/user-images\/image-478-9ae2a81d2107d53baa9b63368896a305.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/146\/132374719\/user-images\/image-478-9ae2a81d2107d53baa9b63368896a305.jpg",
+        "thumbnails": {
+            "256": "\/\/v-dev.tvpage.com\/146\/132374719\/thumbnail\/image-thumbnail-256-6dd9aba9ec36c4f0c7e04a8631659536.jpg"
+        }
+    },
+    "transcripts": "",
+    "VV_VI": 9,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2018-04-13"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "25",
+        "9",
+        "11"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 31.466988,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}
