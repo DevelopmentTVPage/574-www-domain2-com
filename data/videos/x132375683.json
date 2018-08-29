@@ -1,0 +1,115 @@
+{
+    "title": "Champion Automotive - Restoration Tour Camaro",
+    "description": "",
+    "referenceId": "31bb15d26b50f7d6b69b40f6ad8ae89a",
+    "date_created": "1512500678",
+    "date_modified": "1512501020",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "unpublishing",
+    "visibility": "1",
+    "external_image": null,
+    "user_id": "0",
+    "id": "132375683",
+    "loginId": "146",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "132348485",
+    "titleTextEncoded": "media-53-mp4",
+    "category": "",
+    "duration": "51",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "51",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "51",
+        "prettyDuration": "00:00:51",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/146\/132375683\/thumbnail\/image-thumbnail-640-3a2245a8719464f60950f58361677e97.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/146\/132375683\/5339a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/146\/132375683\/5339a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/146\/132375683\/5339a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/132375683\/5339a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/132375683\/5339a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/132375683\/5339a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/132375683\/5339a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "automaticThumbnailsPattern": "146\/132375683\/5339a\/thumb-31bb15d26b50f7d6b69b40f6ad8ae89a-{count}",
+        "selectableThumbnails": [
+            "\/\/v-dev.tvpage.com\/146\/132375683\/user-images\/image-1920-1575fe95b829814244869df789859bc4.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/146\/132375683\/user-images\/image-1920-1575fe95b829814244869df789859bc4.jpg",
+        "thumbnails": {
+            "256": "\/\/v-dev.tvpage.com\/146\/132375683\/thumbnail\/image-thumbnail-256-4f2ba385d4384f19a02b668ca057cafb.jpg",
+            "480": "\/\/v-dev.tvpage.com\/146\/132375683\/thumbnail\/image-thumbnail-480-e0817661e324424de8e8dba246d8955c.jpg",
+            "640": "\/\/v-dev.tvpage.com\/146\/132375683\/thumbnail\/image-thumbnail-640-3a2245a8719464f60950f58361677e97.jpg",
+            "1280": "\/\/v-dev.tvpage.com\/146\/132375683\/thumbnail\/image-thumbnail-1280-ef03e710a0f6eb35bb91d6d9e0edd891.jpg",
+            "1920": "\/\/v-dev.tvpage.com\/146\/132375683\/thumbnail\/image-thumbnail-1920-37c1d2ddbd91e5325a00a39dfad03258.jpg"
+        }
+    },
+    "transcripts": "",
+    "VV_VI": 3,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2018-04-13"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "2",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 25.186527,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

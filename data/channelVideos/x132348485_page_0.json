@@ -1,0 +1,684 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "137285803",
+            "title": "TVPage - Shoppable Video For Merchants",
+            "date_created": "1515707348",
+            "loginId": "146",
+            "tags": null,
+            "description": "TVPage is a platform that enables online merchants to create shoppable video experiences that can be embedded in their store, on average, driving a 32% increase in conversion rate and a 42% increase in average order value!\n\nRequest a demo today: https:\/\/www.tvpage.com\/request-demo",
+            "asset": {
+                "type": "youtube",
+                "author": "TVPage",
+                "hdvFlag": 1,
+                "description": "TVPage is a platform that enables online merchants to create shoppable video experiences that can be embedded in their store, on average, driving a 32% increase in conversion rate and a 42% increase in average order value!\n\nRequest a demo today: https:\/\/www.tvpage.com\/request-demo",
+                "tags": "",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/146\/137285803\/thumbnail\/image-thumbnail-640-2e080606d2293f1b28187c3596d13aa8.jpg",
+                "videoId": "CPau0a-pmZ4",
+                "mediaDuration": 67,
+                "prettyDuration": "00:01:07",
+                "selectableThumbnails": [
+                    "\/\/v-dev.tvpage.com\/146\/137285803\/user-images\/image-1280-11d50e007cec93d047765b53008ef820.jpg"
+                ],
+                "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/146\/137285803\/user-images\/image-1280-11d50e007cec93d047765b53008ef820.jpg",
+                "thumbnails": {
+                    "256": "\/\/v-dev.tvpage.com\/146\/137285803\/thumbnail\/image-thumbnail-256-7d3b6f097cd1c784ae2ddad6f7ea3ddd.jpg",
+                    "480": "\/\/v-dev.tvpage.com\/146\/137285803\/thumbnail\/image-thumbnail-480-452b69c0b4530ed8230ef3a9c64982c2.jpg",
+                    "640": "\/\/v-dev.tvpage.com\/146\/137285803\/thumbnail\/image-thumbnail-640-2e080606d2293f1b28187c3596d13aa8.jpg",
+                    "1280": "\/\/v-dev.tvpage.com\/146\/137285803\/thumbnail\/image-thumbnail-1280-5cbc11e5e19343e9f45fa4f38e24d35b.jpg"
+                }
+            },
+            "parentId": "132348485",
+            "url": "\/why-tvpage\/tvpage-shoppable-video-for-merchants\/132348485-137285803"
+        },
+        {
+            "id": "132375659",
+            "title": "BeoSound 1 & BeoSound 2 - Music Everywhere.mp4",
+            "date_created": "1512499620",
+            "loginId": "146",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "30",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "30",
+                "prettyDuration": "00:00:30",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/146\/132375659\/thumbnail\/image-thumbnail-256-08ec6c344a7f4bf71ffc124cedcdf7b6.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/146\/132375659\/6194b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/146\/132375659\/6194b\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375659\/6194b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375659\/6194b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375659\/6194b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375659\/6194b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375659\/6194b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "selectableThumbnails": [
+                    "\/\/v-dev.tvpage.com\/146\/132375659\/user-images\/image-478-f14ce60223e67c931491fdca282a81e1.jpg"
+                ],
+                "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/146\/132375659\/user-images\/image-478-f14ce60223e67c931491fdca282a81e1.jpg",
+                "thumbnails": {
+                    "256": "\/\/v-dev.tvpage.com\/146\/132375659\/thumbnail\/image-thumbnail-256-08ec6c344a7f4bf71ffc124cedcdf7b6.jpg"
+                }
+            },
+            "parentId": "132348485",
+            "url": "\/why-tvpage\/beosound-1-beosound-2-music-everywhere-mp4\/132348485-132375659"
+        },
+        {
+            "id": "132375918",
+            "title": "HSN | Joy's Closet Shop | Accessories",
+            "date_created": "1512513073",
+            "loginId": "146",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "147",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "147",
+                "prettyDuration": "00:02:27",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/146\/132375918\/thumbnail\/image-thumbnail-256-23f3544360944357daedfa0f271f0e46.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/146\/132375918\/fd48c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/146\/132375918\/fd48c\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375918\/fd48c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375918\/fd48c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375918\/fd48c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375918\/fd48c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375918\/fd48c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "selectableThumbnails": [
+                    "\/\/v-dev.tvpage.com\/146\/132375918\/user-images\/image-478-a6338fbacd6103dfc1ba819cda48120b.jpg"
+                ],
+                "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/146\/132375918\/user-images\/image-478-a6338fbacd6103dfc1ba819cda48120b.jpg",
+                "thumbnails": {
+                    "256": "\/\/v-dev.tvpage.com\/146\/132375918\/thumbnail\/image-thumbnail-256-23f3544360944357daedfa0f271f0e46.jpg"
+                }
+            },
+            "parentId": "132348485",
+            "url": "\/why-tvpage\/hsn-joy-s-closet-shop-accessories-mp4\/132348485-132375918"
+        },
+        {
+            "id": "132359457",
+            "title": "Tolan Shaw \"Change The World\" Live at NAMM 2017 - Taylor Guitars.webm",
+            "date_created": "1512434571",
+            "loginId": "146",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "286",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "286",
+                "prettyDuration": "00:04:46",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/146\/132359457\/thumbnail\/image-thumbnail-640-ee25a407ea28235082d01e07e1bea7a1.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/146\/132359457\/543de\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/146\/132359457\/543de\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132359457\/543de\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132359457\/543de\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132359457\/543de\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132359457\/543de\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132359457\/543de\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "automaticThumbnailsPattern": "146\/132359457\/543de\/thumb-97f05d1d684275a04ae48b5b7a57d43e-{count}",
+                "selectableThumbnails": [
+                    "\/\/v-dev.tvpage.com\/146\/132359457\/user-images\/image-1920-f797262c1334a97d2dbe7482e81b51dd.jpg"
+                ],
+                "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/146\/132359457\/user-images\/image-1920-f797262c1334a97d2dbe7482e81b51dd.jpg",
+                "thumbnails": {
+                    "256": "\/\/v-dev.tvpage.com\/146\/132359457\/thumbnail\/image-thumbnail-256-1829bf59b27b862b54a1530010c5962b.jpg",
+                    "480": "\/\/v-dev.tvpage.com\/146\/132359457\/thumbnail\/image-thumbnail-480-8c870b62185d5406e3aca64cae666d62.jpg",
+                    "640": "\/\/v-dev.tvpage.com\/146\/132359457\/thumbnail\/image-thumbnail-640-ee25a407ea28235082d01e07e1bea7a1.jpg",
+                    "1280": "\/\/v-dev.tvpage.com\/146\/132359457\/thumbnail\/image-thumbnail-1280-1071e81594080a1cc41fa449f341e32a.jpg",
+                    "1920": "\/\/v-dev.tvpage.com\/146\/132359457\/thumbnail\/image-thumbnail-1920-6411909c8906d129a78120d3addfc6c5.jpg"
+                }
+            },
+            "parentId": "132348485",
+            "url": "\/why-tvpage\/tolan-shaw-change-the-world-live-at-namm-2017-taylor-guitars-webm\/132348485-132359457"
+        },
+        {
+            "id": "132374719",
+            "title": "Fit Expert Review_ Men's Nike Free 4.0 Flyknit.mp4",
+            "date_created": "1512437959",
+            "loginId": "146",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "61",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "61",
+                "prettyDuration": "00:01:01",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/146\/132374719\/thumbnail\/image-thumbnail-256-6dd9aba9ec36c4f0c7e04a8631659536.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/146\/132374719\/569f8\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/146\/132374719\/569f8\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132374719\/569f8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132374719\/569f8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132374719\/569f8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132374719\/569f8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132374719\/569f8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "selectableThumbnails": [
+                    "\/\/v-dev.tvpage.com\/146\/132374719\/user-images\/image-478-9ae2a81d2107d53baa9b63368896a305.jpg"
+                ],
+                "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/146\/132374719\/user-images\/image-478-9ae2a81d2107d53baa9b63368896a305.jpg",
+                "thumbnails": {
+                    "256": "\/\/v-dev.tvpage.com\/146\/132374719\/thumbnail\/image-thumbnail-256-6dd9aba9ec36c4f0c7e04a8631659536.jpg"
+                }
+            },
+            "parentId": "132348485",
+            "url": "\/why-tvpage\/fit-expert-review-men-s-nike-free-4-0-flyknit-mp4\/132348485-132374719"
+        },
+        {
+            "id": "132375683",
+            "title": "Champion Automotive - Restoration Tour Camaro",
+            "date_created": "1512500678",
+            "loginId": "146",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "51",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "51",
+                "prettyDuration": "00:00:51",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/146\/132375683\/thumbnail\/image-thumbnail-640-3a2245a8719464f60950f58361677e97.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/146\/132375683\/5339a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/146\/132375683\/5339a\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375683\/5339a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375683\/5339a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375683\/5339a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375683\/5339a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375683\/5339a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "automaticThumbnailsPattern": "146\/132375683\/5339a\/thumb-31bb15d26b50f7d6b69b40f6ad8ae89a-{count}",
+                "selectableThumbnails": [
+                    "\/\/v-dev.tvpage.com\/146\/132375683\/user-images\/image-1920-1575fe95b829814244869df789859bc4.jpg"
+                ],
+                "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/146\/132375683\/user-images\/image-1920-1575fe95b829814244869df789859bc4.jpg",
+                "thumbnails": {
+                    "256": "\/\/v-dev.tvpage.com\/146\/132375683\/thumbnail\/image-thumbnail-256-4f2ba385d4384f19a02b668ca057cafb.jpg",
+                    "480": "\/\/v-dev.tvpage.com\/146\/132375683\/thumbnail\/image-thumbnail-480-e0817661e324424de8e8dba246d8955c.jpg",
+                    "640": "\/\/v-dev.tvpage.com\/146\/132375683\/thumbnail\/image-thumbnail-640-3a2245a8719464f60950f58361677e97.jpg",
+                    "1280": "\/\/v-dev.tvpage.com\/146\/132375683\/thumbnail\/image-thumbnail-1280-ef03e710a0f6eb35bb91d6d9e0edd891.jpg",
+                    "1920": "\/\/v-dev.tvpage.com\/146\/132375683\/thumbnail\/image-thumbnail-1920-37c1d2ddbd91e5325a00a39dfad03258.jpg"
+                }
+            },
+            "parentId": "132348485",
+            "url": "\/why-tvpage\/media-53-mp4\/132348485-132375683"
+        },
+        {
+            "id": "132348486",
+            "title": "Tech gifts for kids and teens Ariana Grande, Star Wars and more",
+            "date_created": "1512428052",
+            "loginId": "146",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "97",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "97",
+                "prettyDuration": "00:01:37",
+                "thumbnailUrl": "\/\/v.tvpage.com\/146\/132348486\/0339f\/thumb-6c1fd5c1aa86857117006c5fb44362ab-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/146\/132348486\/0339f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/146\/132348486\/0339f\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132348486\/0339f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132348486\/0339f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132348486\/0339f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132348486\/0339f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132348486\/0339f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "132348485",
+            "url": "\/why-tvpage\/tech-gifts-for-kids-and-teens-ariana-grande-star-wars-and-more-mp4\/132348485-132348486"
+        },
+        {
+            "id": "132375657",
+            "title": "Quick to Assemble by kathy ireland,  Office Bush Furniture",
+            "date_created": "1512498587",
+            "loginId": "146",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "117",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "117",
+                "prettyDuration": "00:01:57",
+                "thumbnailUrl": "\/\/v.tvpage.com\/146\/132375657\/549ba\/thumb-0bb8965a14a86a2af538bfe60dfed07e-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/146\/132375657\/549ba\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/146\/132375657\/549ba\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375657\/549ba\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375657\/549ba\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375657\/549ba\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375657\/549ba\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375657\/549ba\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "132348485",
+            "url": "\/why-tvpage\/quick-to-assemble-by-kathy-ireland-office-bush-furniture-mp4\/132348485-132375657"
+        },
+        {
+            "id": "132348495",
+            "title": "Hands-On  XFX Radeon RX 470 and 480 Graphics Cards",
+            "date_created": "1512430161",
+            "loginId": "146",
+            "tags": "",
+            "description": "We're taking a look at the XFX Radeon RX 470 and 480 line of GPUs. These AMD XFX cards focus on game optimization VR at 90FPS for less than $299. Check out the video for more info.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "193",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "193",
+                "prettyDuration": "00:03:13",
+                "thumbnailUrl": "\/\/v.tvpage.com\/146\/132348495\/352f6\/thumb-b46b78997e51f18e6511e9fbd46828c7-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/146\/132348495\/352f6\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/146\/132348495\/352f6\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132348495\/352f6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132348495\/352f6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132348495\/352f6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132348495\/352f6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132348495\/352f6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "132348485",
+            "url": "\/why-tvpage\/media-52-mp4\/132348485-132348495"
+        },
+        {
+            "id": "132375923",
+            "title": "Whirlpool White Side-By-Side Refrigerator WRS322FDAW",
+            "date_created": "1512513658",
+            "loginId": "146",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "83",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "83",
+                "prettyDuration": "00:01:23",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/146\/canvas\/1280\/717\/107429768-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/146\/132375923\/c0b04\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/146\/132375923\/c0b04\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375923\/c0b04\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375923\/c0b04\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375923\/c0b04\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375923\/c0b04\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/146\/132375923\/c0b04\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "132348485",
+            "url": "\/why-tvpage\/whirlpool-white-side-by-side-refrigerator-wrs322fdaw-mp4\/132348485-132375923"
+        }
+    ]
+}
