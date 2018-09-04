@@ -20,7 +20,7 @@
     "settings": "",
     "asset": {
         "type": "youtube",
-        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/wCFc-cH9KFs\/maxresdefault.jpg",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/146\/164639116\/thumbnail\/image-thumbnail-640-1ee7a7a3d4fc031159ebfb42a3192f5e.jpg",
         "uploadDate": 1463040642,
         "videoId": "wCFc-cH9KFs",
         "title": "Introducing the new Drive de Cartier watch | Pink gold",
@@ -28,7 +28,17 @@
         "author": "Cartier",
         "mediaDuration": 15,
         "prettyDuration": "00:00:15",
-        "views": "4012457"
+        "views": "4012457",
+        "selectableThumbnails": [
+            "\/\/v-dev.tvpage.com\/146\/164639116\/user-images\/image-1280-7022f8ee5ecb845a863e2f24b26a0f71.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/146\/164639116\/user-images\/image-1280-7022f8ee5ecb845a863e2f24b26a0f71.jpg",
+        "thumbnails": {
+            "256": "\/\/v-dev.tvpage.com\/146\/164639116\/thumbnail\/image-thumbnail-256-9e1fd85b46cfc7f4983865ff3c0e5fd2.jpg",
+            "480": "\/\/v-dev.tvpage.com\/146\/164639116\/thumbnail\/image-thumbnail-480-3cfdd8ed1ff64605ea048a5796b856ab.jpg",
+            "640": "\/\/v-dev.tvpage.com\/146\/164639116\/thumbnail\/image-thumbnail-640-1ee7a7a3d4fc031159ebfb42a3192f5e.jpg",
+            "1280": "\/\/v-dev.tvpage.com\/146\/164639116\/thumbnail\/image-thumbnail-1280-e1080ba1307605ec399eeeb99734d909.jpg"
+        }
     },
     "transcripts": "",
     "VV_VI": "",
